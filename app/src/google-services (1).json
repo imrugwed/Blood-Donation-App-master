@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211254412117",
+    "project_id": "blooddonation-3b52d",
+    "storage_bucket": "blooddonation-3b52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211254412117:android:943fc808249eb67d73a5dc",
+        "android_client_info": {
+          "package_name": "com.Rugwed.BloodDonationAPP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211254412117-cvuemhfc5m9er49sh061kt6s2eumv58h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhW-_zh6RYk5jVheJboFVklYv10dmFJAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211254412117-cvuemhfc5m9er49sh061kt6s2eumv58h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
